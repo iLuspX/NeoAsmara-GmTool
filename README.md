@@ -41,3 +41,15 @@ The server location is configuration, not a development checkout path. Update th
 [![Support on Ko-fi](docs/assets/kofi.svg)](https://ko-fi.com/neoasmara)
 
 Donations are optional. Thank you for supporting the project.
+
+## License
+
+Copyright © 2026 LuspX_
+
+This repository is part of the **NeoAsmara Project** and is distributed under the **NeoAsmara Project License v1.0 (NAPL)**.
+
+The license permits personal research, local testing, and authorized reverse engineering, while reserving commercial redistribution rights.
+
+See [LICENSE.md](LICENSE.md) for the complete terms.
+
+**NeoAsmara is an independent, unofficial project.**
